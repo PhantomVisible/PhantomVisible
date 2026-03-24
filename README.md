@@ -29,13 +29,38 @@ I **architect backends that don't buckle** and ship frontends that don't embarra
 <div align="center">
 
 #### Backend & Systems
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,linux,bash,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,c,cs,cpp,dotnet,go,linux,bash,postgres,mysql,mongodb,redis,gradle,graphql,kafka,nginx,rabbitmq,elasticsearch,hibernate,maven,postman&theme=dark)](https://skillicons.dev)
 
 #### Frontend & Web
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,astro,threejs,nextjs,nuxtjs,html,css,tailwind,bootstrap,sass,styledcomponents,nodejs,jest,flutter&theme=dark)](https://skillicons.dev)
 
 #### DevOps & Tooling
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,docker,git,vscode,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,docker,kubernetes,terraform,arch,grafana,prometheus,azure,aws,bash,gcp,jenkins,ansible,sonarqube,git,vscode,idea&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## `> source ai_tools.env`
+
+<div align="center">
+
+#### AI Assistants & Copilots
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF)
+
+#### Vibe Coding & AI-Native IDEs
+![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=00D9FF)
+![v0](https://img.shields.io/badge/v0-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Bolt](https://img.shields.io/badge/Bolt-0D1117?style=for-the-badge&logo=stackblitz&logoColor=F7DF1E)
+![Lovable](https://img.shields.io/badge/Lovable-0D1117?style=for-the-badge&logo=heart&logoColor=FF6B9D)
+
+#### AI-Powered Pipelines
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
 
 </div>
 
